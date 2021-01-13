@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/ReactJS-com-Styled-Components/static/js/main.105da331.chunk.js",
+    "main.js.map": "/ReactJS-com-Styled-Components/static/js/main.105da331.chunk.js.map",
+    "runtime-main.js": "/ReactJS-com-Styled-Components/static/js/runtime-main.77b01142.js",
+    "runtime-main.js.map": "/ReactJS-com-Styled-Components/static/js/runtime-main.77b01142.js.map",
+    "static/js/2.2ae298c6.chunk.js": "/ReactJS-com-Styled-Components/static/js/2.2ae298c6.chunk.js",
+    "static/js/2.2ae298c6.chunk.js.map": "/ReactJS-com-Styled-Components/static/js/2.2ae298c6.chunk.js.map",
+    "index.html": "/ReactJS-com-Styled-Components/index.html",
+    "precache-manifest.9135b68dc7aa2696249c9400de1cab7c.js": "/ReactJS-com-Styled-Components/precache-manifest.9135b68dc7aa2696249c9400de1cab7c.js",
+    "service-worker.js": "/ReactJS-com-Styled-Components/service-worker.js",
+    "static/js/2.2ae298c6.chunk.js.LICENSE.txt": "/ReactJS-com-Styled-Components/static/js/2.2ae298c6.chunk.js.LICENSE.txt",
+    "static/media/alimentacao.svg": "/ReactJS-com-Styled-Components/static/media/alimentacao.44dbaa78.svg",
+    "static/media/bank_logo.svg": "/ReactJS-com-Styled-Components/static/media/bank_logo.f3a2bff4.svg",
+    "static/media/dinheiro.svg": "/ReactJS-com-Styled-Components/static/media/dinheiro.b97c300b.svg",
+    "static/media/olho.svg": "/ReactJS-com-Styled-Components/static/media/olho.acd41ceb.svg",
+    "static/media/outros.svg": "/ReactJS-com-Styled-Components/static/media/outros.17e95f3c.svg",
+    "static/media/privado.svg": "/ReactJS-com-Styled-Components/static/media/privado.134d853a.svg",
+    "static/media/saude.svg": "/ReactJS-com-Styled-Components/static/media/saude.605ef9ca.svg",
+    "static/media/themeOff.svg": "/ReactJS-com-Styled-Components/static/media/themeOff.0981f5bf.svg",
+    "static/media/themeOn.svg": "/ReactJS-com-Styled-Components/static/media/themeOn.75ea2814.svg",
+    "static/media/transporte.svg": "/ReactJS-com-Styled-Components/static/media/transporte.15a4ed73.svg",
+    "static/media/utilidades.svg": "/ReactJS-com-Styled-Components/static/media/utilidades.59035811.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77b01142.js",
+    "static/js/2.2ae298c6.chunk.js",
+    "static/js/main.105da331.chunk.js"
+  ]
+}
