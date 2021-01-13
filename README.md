@@ -17,7 +17,7 @@
 - yarn start : será aberto automaticamente no navegador em http://localhost:3000
 
 ## Demo:
-![](https://github.com/ManuSayure/ReactJS-com-Styled-Components/tree/master/src/assets/demos/tema%20escuro-ANIMATION.gif)
+![](https://github.com/ManuSayure/ReactJS-com-Styled-Components/blob/master/src/assets/demos/tema%20escuro-ANIMATION.gif)
 
 
 
