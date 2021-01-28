@@ -5,7 +5,7 @@
 
 - [X] Button com props; 
 - [x] Herança;
-- [x] Sobreescrever propriedade do css;
+- [x] Sobrescrever propriedade do css;
 - [x] Temas;
 
 ## Bibliotecas:
